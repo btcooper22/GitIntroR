@@ -4,6 +4,7 @@ require(tibble)
 require(readr)
 require(tidyr)
 require(janitor)
+require(beepr)
 
 # Create some data
 A <- rnorm(1000)
@@ -45,4 +46,5 @@ if(!dir.exists("figures"))
   dir.create("figures")
 }
 ggsave("figures/plot.png",
-       height = 6, width = 6)
+       height = 6, width = 9)
+beep()

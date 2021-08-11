@@ -44,6 +44,20 @@
       "Repository": "CRAN",
       "Hash": "dab19adae4440ae55aa8a9d238b246bb"
     },
+    "audio": {
+      "Package": "audio",
+      "Version": "0.1-7",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "31dcf8bcc4b1d343d75fee98ee44550b"
+    },
+    "beepr": {
+      "Package": "beepr",
+      "Version": "1.3",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "b3158a579ecef0e8f7626f4dadc369d0"
+    },
     "bit": {
       "Package": "bit",
       "Version": "4.0.4",
